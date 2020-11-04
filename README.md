@@ -9,3 +9,4 @@ The ISIC 2017 database has to be organized in the "data_2017" file as follows:
 - Three folders: "Train", "Val" and "Test" with the dermoscopic and superpixels images of each of the sets.
 - Three folders: "Train_Dermo", "Val_Dermo" and "Test_Dermo" with the .json files which contain the dermoscopic structures files for each of the sets.
 - Three folders: "Train_Lesion", "Val_Lesion" and "Test_Lesion" with the binary masks of the lesions for each of the sets. 
+[The organized database is available in https://drive.google.com/drive/folders/1r6CRRzzsOQlILeEJxp8XdMu7kl4dt_af?usp=sharing]
